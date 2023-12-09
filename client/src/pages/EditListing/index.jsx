@@ -1,4 +1,4 @@
-import './index.scss'
+
 import Helmet from '../../components/Helmet';
 import {useState,useRef, useEffect} from 'react'
 import {getStorage, ref, uploadBytesResumable, getDownloadURL} from 'firebase/storage'

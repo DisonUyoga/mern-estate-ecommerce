@@ -1,4 +1,4 @@
-import './index.scss'
+
 import Helmet from '../../components/Helmet'
 import React from 'react';
 

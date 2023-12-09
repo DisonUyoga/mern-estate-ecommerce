@@ -1,4 +1,4 @@
-import './index.scss'
+
 import Helmet from '../../components/Helmet'
 import {Link, Form, useNavigate, useActionData, useNavigation} from 'react-router-dom'
 import React from 'react';

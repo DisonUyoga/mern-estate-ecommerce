@@ -1,4 +1,4 @@
-import './index.scss'
+
 import {getUser} from '../../utils/getAuth'
 
 import {useEffect, useState} from 'react';

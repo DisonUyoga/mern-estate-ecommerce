@@ -1,4 +1,4 @@
-import './index.scss'
+
 
 import {useEffect, useState} from 'react';
 import Helmet from '../../components/Helmet'
